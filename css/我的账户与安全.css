@@ -1,0 +1,48 @@
+  .list ul li {
+      margin-top: .085333rem;
+  }
+
+  .flex {
+      height: .682667rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+
+  .flex .left {
+      font-size: .290133rem;
+  }
+
+  .flex .left p {
+      font-size: .238933rem;
+  }
+
+  .flex .left span {
+      font-size: .2048rem;
+  }
+
+  .flex .left img {
+      width: .512rem;
+      height: .597333rem;
+      vertical-align: middle;
+      margin-right: .170667rem;
+  }
+
+  .flex .right {
+      font-size: .170667rem;
+  }
+
+  .flex .right img {
+      vertical-align: middle;
+  }
+
+  .flex .right .bang {
+      width: .768rem;
+      height: .426667rem;
+      text-align: center;
+      line-height: .426667rem;
+      background-color: orange;
+      font-size: .290133rem;
+      color: #fff;
+      border-radius: .085333rem;
+  }

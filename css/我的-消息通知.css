@@ -1,0 +1,33 @@
+  .flex {
+      height: .768rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+
+  .set-main ul li {
+      margin-top: .170667rem;
+      background-color: #fff;
+      font-size: .273067rem;
+  }
+
+  .set-main ul li .right {
+      width: .682667rem;
+      height: .341333rem;
+      border-radius: .341333rem;
+      background-color: #ccc;
+      
+  }
+
+  .set-main ul li .right .circle {
+      float: right;
+      width: .341333rem;
+      height: .341333rem;
+      background-color: #fff;
+      border-radius: 50%;
+
+  }
+
+  .bgGreen {
+      background-color: aquamarine !important;
+  }

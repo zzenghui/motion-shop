@@ -1,0 +1,131 @@
+ .search {
+     margin-top: .341333rem;
+ }
+
+
+ .searchInput {
+     float: left;
+     display: block;
+     width: 5.461333rem;
+     height: .682667rem;
+     margin: 0 auto;
+     background-image: url(../images/搜索@3x.png);
+     background-repeat: no-repeat;
+     background-position: left .170667rem center;
+     background-size: 7% 60%;
+     background-color: #f6f5f5;
+     outline: none;
+     border: none;
+     padding-left: .768rem;
+ }
+
+ .search img {
+     float: right;
+     width: .256rem;
+     height: .256rem;
+     margin-top: .2048rem;
+ }
+
+ .nav {
+     width: 100%;
+     height: .682667rem;
+     background-color: #f7f7f7;
+     margin-top: .170667rem;
+ }
+
+ .nav .w ul {
+     display: flex;
+     justify-content: space-between;
+     line-height: .682667rem;
+ }
+
+ .nav .w ul li a {
+     font-size: .290133rem;
+ }
+
+ .categories {
+     display: flex;
+     justify-content: space-between;
+     align-content: space-between;
+     flex-wrap: wrap;
+     margin-top: .170667rem;
+     height: 2.474667rem;
+ }
+
+ .categories .categoriesitem {
+     width: 25%;
+     height: 1.109333rem;
+     text-align: center;
+ }
+
+ .categories .categoriesitem p {
+     font-size: .221867rem;
+ }
+
+ .categories .categoriesitem img {
+     width: .682667rem;
+     height: .682667rem;
+ }
+
+ .goodsCenter {
+     height: 4.010667rem;
+     margin-top: .085333rem;
+ }
+
+ .goodsCenter-line1 {
+     height: 3.959467rem;
+     width: 100%;
+     border-top: 1px solid #ccc;
+     border-bottom: 1px solid #ccc;
+ }
+
+ .goodsleft,
+ .goodsright {
+     float: left;
+     width: 50%;
+     height: 100%;
+     border-right: 2px solid #ccc;
+     padding: .085333rem .085333rem;
+ }
+
+ .goodsright {
+     border-right: none;
+ }
+
+ .goodsleft img,
+ .goodsright img {
+     width: 100%;
+     height: 2.645333rem
+ }
+
+ .goodsleft p,
+ .goodsright p {
+     font-size: .221867rem;
+     font-weight: 600;
+     margin-bottom: .170667rem;
+ }
+
+ .goodsleft .pric,
+ .goodsright .pric {
+     float: left;
+     font-size: .221867rem;
+     font-weight: 600;
+ }
+
+ .goodsleft .pay,
+ .goodsright .pay {
+     float: right;
+     font-size: .170667rem;
+     color: #ccc;
+ }
+
+ .kong {
+     width: 100%;
+     height: 1.706667rem;
+ }
+
+ .banner {
+     width: 100%;
+     height: 2.133333rem;
+     margin-bottom: .170667rem;
+ }

@@ -1,0 +1,131 @@
+  .new {
+      width: 100%;
+      height: .682667rem;
+      border-top: 1px solid #ccc;
+      line-height: .682667rem;
+
+  }
+
+  .new .w {
+      height: 100%;
+      border-bottom: 1px solid #ccc;
+  }
+
+  .new .left {
+      float: left;
+      font-size: .290133rem;
+  }
+
+  .new .right {
+      float: right;
+      vertical-align: middle;
+  }
+
+  .newItem {
+      margin-top: .238933rem;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: .170667rem;
+  }
+
+  .newItem .newItemTop {
+      width: 100%;
+      height: .682667rem;
+      line-height: .682667rem;
+  }
+
+  .newItem .newItemTop .newItemTopLeft {
+      float: left;
+
+      width: 3.413333rem;
+  }
+
+  .newItem .newItemTop .newItemTopLeft img {
+      float: left;
+      margin-right: .170667rem;
+      vertical-align: middle;
+  }
+
+  .newItem .newItemTop .newItemTopLeft h2 {
+      font-size: .290133rem;
+
+  }
+
+  .newItem .newItemTop .newItemTopRight {
+      float: right;
+      font-size: .170667rem;
+  }
+
+  .newItem .newItembottom {
+      margin-top: .170667rem;
+      font-size: .221867rem;
+      color: #666;
+  }
+
+  .list {
+      margin-top: -1px;
+      width: 100%;
+      border-top: 2px solid #ccc;
+  }
+
+  .list .w .top {
+      padding: .170667rem 0 0 0;
+      font-size: .290133rem;
+      font-weight: 600;
+  }
+
+  .listItem {
+      height: 1.365333rem;
+      padding: .170667rem 0;
+      padding-bottom: .170667rem;
+      border-bottom: 1px solid #ccc;
+  }
+
+  .listItem .number {
+      float: left;
+      font-size: .392533rem;
+      color: red;
+      font-family: "黑体";
+      line-height: 1.1264rem;
+  }
+
+  .listItem .img {
+      float: left;
+      height: .7168rem;
+      padding-top: .085333rem;
+      margin-left: .085333rem;
+  }
+  .listItem .img img{
+    width: .7168rem;
+    height: .7168rem;
+  }
+
+  .listItem .Info {
+      float: left;
+      margin-left: .085333rem;
+  }
+
+  .listItem .Info .p1 {
+      font-size: .221867rem;
+      font-weight: 600;
+      line-height: .341333rem;
+  }
+
+  .listItem .Info .p2,
+  .listItem .Info .p3 {
+      font-size: .170667rem;
+      font-weight: 600;
+      line-height: .341333rem;
+  }
+
+  .absord {
+      float: right;
+      width: .938667rem;
+      height: .512rem;
+      border: 2px solid orange;
+      margin-top: .3072rem;
+      text-align: center;
+      line-height: .512rem;
+      font-size: .238933rem;
+      color: orange;
+      border-radius: .085333rem;
+  }

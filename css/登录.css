@@ -1,0 +1,73 @@
+  .title {
+      margin-bottom: 1.28rem;
+  }
+
+  .sug {
+      text-align: center;
+      font-size: .4096rem;
+      margin-bottom: .768rem;
+  }
+
+  .tell {
+      font-size: .4096rem;
+      margin-bottom: .597333rem;
+      text-align: center;
+  }
+
+  .login {
+      width: 4.608rem;
+      height: .768rem;
+      background-color: black;
+      color: aliceblue;
+      text-align: center;
+      line-height: .768rem;
+      font-size: .290133rem;
+      margin: 0 auto;
+      margin-bottom: 15px;
+  }
+
+  .yanzheng {
+      width: 4.608rem;
+      height: .768rem;
+      background-color: #f5f1f1;
+      color: black;
+      text-align: center;
+      line-height: .768rem;
+      font-size: .290133rem;
+      margin: 0 auto;
+      margin-bottom: 2.048rem;
+  }
+
+  .other {
+
+    text-align: center;
+      margin-bottom: .512rem;
+
+      
+  }
+
+  .other span {
+      display: inline-block;
+      margin: .085333rem;
+      vertical-align: middle;
+      font-size: .238933rem;
+  }
+
+  .other .line {
+      width: 1.826133rem;
+      height: .017067rem;
+      background-color: #ccc;
+      display: inline-block;
+      vertical-align: middle;
+  }
+
+  .loginManner {
+      display: flex;
+      justify-content: space-around;
+  }
+
+  .ser {
+      text-align: center;
+      font-size: .170667rem;
+      margin-top: .341333rem;
+  }

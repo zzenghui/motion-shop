@@ -1,0 +1,63 @@
+  /* 购买问题 */
+  .buyQuestion {
+      width: 100%;
+      height: .768rem;
+      border-top: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+      line-height: .768rem;
+      font-size: .290133rem;
+      margin-bottom: .256rem;
+  }
+
+  .buyQuestion .w .left {
+      float: left;
+      height: 100%;
+     
+  }
+
+  .buyQuestion .w .right {
+      float: right;
+      height: 100%;
+    color: red;
+  }
+
+  .search {
+      display: block;
+      width: 5.802667rem;
+      height: .597333rem;
+      margin: 0 auto;
+      background-image: url(../images/搜索@3x.png);
+      background-repeat: no-repeat;
+      background-position: left .170667rem center;
+      background-size: 7% 60%;
+      background-color: #f6f5f5;
+      outline: none;
+      border: none;
+      padding-left: .768rem;
+  }
+
+  .main ul>li {
+      padding: .2048rem 0;
+      border-bottom: 1px solid #ccc;
+  }
+
+  .main ul>li h1 {
+      font-size: .290133rem;
+      margin-bottom: .256rem;
+  }
+
+  .main ul>li ol>li {
+      font-size: .221867rem;
+      color: #999;
+      margin-bottom: .256rem;
+      cursor: pointer;
+  }
+
+  .main ul>li ol .left {
+      width: 3.413333rem;
+      float: left;
+  }
+
+  .main ul>li ol .right {
+      float: left;
+  }

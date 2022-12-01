@@ -1,0 +1,23 @@
+  .flex {
+      height: .768rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+
+  .set-main ul li {
+      margin-top: .170667rem;
+      background-color: #fff;
+      font-size: .273067rem;
+  }
+
+  .logout {
+      width: 100%;
+      height: .682667rem;
+      text-align: center;
+      line-height: .682667rem;
+      background-color: orange;
+      color: #fff;
+      font-size: .290133rem;
+      margin-top: .938667rem;
+  }

@@ -1,0 +1,105 @@
+  .address {
+
+      height: 1.536rem;
+  }
+
+  .address img {
+      float: left;
+  }
+
+  .address .mess {
+      float: left;
+      margin-left: .170667rem;
+  }
+
+  .address .mess h2 {
+      font-size: .290133rem;
+      margin-bottom: .170667rem;
+  }
+
+  .address .mess h2 span {
+      font-size: .256rem;
+  }
+
+  .tell {
+      float: right;
+  }
+
+  .tell span {
+      display: inline-block;
+      font-size: .341333rem;
+  }
+
+  .main {
+      height: 1.109333rem;
+      border-bottom: 1px solid #ccc;
+  }
+
+  .main .w img {
+      float: left;
+      width: 1.109333rem;
+      height: .853333rem;
+  }
+
+  .descM {
+      float: left;
+      font-size: .221867rem;
+      margin-left: .170667rem;
+  }
+
+  .descM p {
+      margin-bottom: .085333rem;
+  }
+
+  .leftM {
+      float: left;
+  }
+
+  .rightM {
+      float: right;
+  }
+
+  .manner li {
+      width: 100%;
+      height: .768rem;
+      line-height: .768rem;
+      border-bottom: 1px solid #ccc;
+  }
+
+  .manner li .left {
+      float: left;
+      font-size: .290133rem;
+      font-weight: 600;
+  }
+
+  .manner li .right {
+      float: right;
+      font-size: .221867rem;
+  }
+
+  .bottom {
+      position: fixed;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      height: .768rem;
+      line-height: .768rem;
+  }
+
+  .bottom .leftB {
+      float: left;
+      font-size: .221867rem;
+      color: red;
+  }
+
+  .bottom .rightB {
+      float: right;
+      width: 1.706667rem;
+      border-radius: .085333rem;
+      height: .768rem;
+      font-size: .290133rem;
+      text-align: center;
+      line-height: .768rem;
+      background-color: red;
+      color: #fff;
+  }

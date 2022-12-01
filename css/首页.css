@@ -1,0 +1,168 @@
+  body,
+  html {
+      overflow-x: hidden;
+  }
+
+
+  .center div:nth-child(1) {
+      font-size: .256rem;
+      font-weight: 600;
+      color: black;
+  }
+
+  .maybe {
+      height: .682667rem;
+      margin-top: .170667rem;
+      line-height: .682667rem;
+  }
+
+  .maybe .w .leftM {
+      float: left;
+      font-size: .290133rem;
+  }
+
+  .maybe .w .rightM {
+      float: right;
+      font-size: .221867rem;
+  }
+
+  .author {
+      width: 200%;
+      height: 3.413333rem;
+      margin-top: .170667rem;
+      overflow-x: hidden;
+
+
+  }
+
+  .author-item {
+      float: left;
+      white-space: nowrap;
+      width: 2.304rem;
+      height: 100%;
+      text-align: center;
+      background-color: #fff;
+      margin-left: 20px;
+  }
+
+  .author-item .top {
+      text-align: right;
+  }
+
+  .author-item .item-img {
+      width: 1.365333rem;
+      height: 1.365333rem;
+  }
+
+  .author-item h2 {
+      font-size: .290133rem;
+  }
+
+  .author-item p {
+      font-size: .221867rem;
+      margin-top: .170667rem;
+  }
+
+  .author-item .guanz {
+      width: 1.706667rem;
+      height: .426667rem;
+      background-color: #169BD5;
+      text-align: center;
+      line-height: .426667rem;
+      color: #fff;
+      margin: 0 auto;
+      margin-top: .170667rem;
+      font-size: .221867rem;
+  }
+
+  .author-cont {
+      height: 6.314667rem;
+      background-color: #fff;
+      margin-top: .170667rem;
+      padding-top: .341333rem;
+  }
+
+  .author-top {
+      height: 1.024rem;
+  }
+
+  .author-top img {
+      width: 1.024rem;
+      height: 1.024rem;
+      float: left;
+  }
+
+  .author-top .descT {
+      float: left;
+      margin-left: .170667rem;
+      font-size: .221867rem;
+      padding-top: .170667rem;
+  }
+
+  .author-top .descT h4 {
+      margin-bottom: .170667rem;
+  }
+
+  .author-top .guanzhu {
+      font-size: .290133rem;
+      float: right;
+      color: #169BD5;
+      line-height: 1.024rem;
+  }
+
+  .author-center {
+      height: 2.269867rem;
+      margin-top: .512rem;
+      overflow: hidden;
+  }
+
+  .author-center img {
+      width: 2.269867rem;
+      height: 2.269867rem;
+  }
+
+  .w200 {
+      width: 150%;
+
+  }
+
+  .author-bottom {
+      font-size: .221867rem;
+      font-weight: 600;
+  }
+
+  .author-bottom p {
+      line-height: .341333rem;
+  }
+
+  .author-bottom p:nth-child(1) {
+      text-indent: 1em;
+
+  }
+
+  .author-footer {
+      margin-top: .170667rem;
+  }
+
+  .author-footer img {
+      width: .341333rem;
+      height: .341333rem;
+      vertical-align: middle;
+  }
+
+  .author-footer>img:nth-child(1) {
+      float: left;
+  }
+
+  .author-footer .rightS {
+      float: right;
+      width: 2.304rem;
+  }
+
+  .author-footer .rightS .rightS-p {
+      float: left;
+  }
+
+  .author-footer .rightS .rightS-s {
+      float: right;
+  }

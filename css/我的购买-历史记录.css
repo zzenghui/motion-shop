@@ -1,0 +1,64 @@
+ .navC {
+     border-bottom: 1px solid #ccc;
+     border-top: 1px solid #ccc;
+     background-color: #fff;
+ }
+
+ .nav {
+     height: .682667rem;
+     line-height: .682667rem;
+     display: flex;
+     justify-content: space-between;
+     font-size: .290133rem;
+ }
+
+ .main {
+     width: 100%;
+     height: 2.133333rem;
+     background-color: #fff;
+ }
+
+ .main .top {
+     height: 1.194667rem;
+     border-bottom: 1px solid #ccc;
+ }
+
+ .main .top .w img {
+     float: left;
+     width: 1.024rem;
+     height: .853333rem;
+ }
+
+ .main .top .w .top-desc {
+     float: left;
+     margin-left: .085333rem;
+ }
+
+ .main .top .w .top-desc p {
+     font-size: .221867rem;
+     margin-top: .085333rem;
+ }
+
+ .pric .left {
+     float: left;
+     font-size: .221867rem;
+ }
+
+ .pric .right {
+     float: right;
+     font-size: .221867rem;
+ }
+
+ .gobuy {
+     float: right;
+     width: 1.4848rem;
+     height: .512rem;
+     background-color: orange;
+     text-align: center;
+     line-height: .512rem;
+     font-size: .290133rem;
+     color: #fff;
+     border-radius: .085333rem;
+     margin-top: .170667rem;
+     margin-right: .256rem;
+ }

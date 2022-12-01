@@ -1,0 +1,99 @@
+       .center div:nth-child(2) {
+           font-size: .256rem;
+           font-weight: 600;
+           color: black;
+       }
+
+       .told {
+           height: .512rem;
+           margin: .085333rem;
+           background-color: #fff;
+           line-height: .512rem;
+           font-size: .290133rem;
+           margin: 0 auto;
+       }
+
+       .toldList {
+           display: flex;
+           justify-content: space-between;
+           align-content: space-between;
+           flex-wrap: wrap;
+           height: 1.621333rem;
+           margin-top: .085333rem;
+       }
+
+       .toldItem {
+           width: 2.56rem;
+           height: .682667rem;
+       }
+
+       .toldItem img {
+           width: .682667rem;
+           height: .682667rem;
+           float: left;
+       }
+
+       .toldItem .descT {
+           float: left;
+           margin-left: .170667rem;
+       }
+
+       .toldItem .descT h2 {
+           font-size: .221867rem;
+           margin-bottom: .1024rem;
+       }
+
+       .toldItem .descT span {
+           font-size: .170667rem;
+           color: #ccc;
+       }
+
+       .m20 {
+           margin-top: .341333rem;
+       }
+
+       .goods1 {
+           float: left;
+           width: 2.781867rem;
+           height: 4.864rem;
+       }
+
+       .goods1 img {
+           width: 100%;
+           height: 3.703467rem;
+       }
+
+       .goods1 .ms {
+           font-size: .221867rem;
+       }
+
+       .perInfo .mess {
+           padding-left: .085333rem;
+           float: left;
+       }
+
+       .perInfo {
+           margin-top: .136533rem;
+       }
+
+       .perInfo .mess img {
+           width: .341333rem;
+           height: .341333rem;
+           vertical-align: middle;
+       }
+
+       .perInfo .mess {
+           font-size: .136533rem;
+       }
+
+       .sc {
+           padding-right: .170667rem;
+           float: right;
+           font-size: .170667rem;
+       }
+
+       .sc img {
+           width: .170667rem;
+           height: .170667rem;
+           vertical-align: middle;
+       }

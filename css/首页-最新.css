@@ -1,0 +1,100 @@
+.center div:nth-child(3) {
+    font-size: .256rem;
+    font-weight: 700;
+    color: black;
+
+}
+
+.quan {
+    height: .426667rem;
+    background-color: #fff;
+    line-height: .426667rem;
+}
+
+.quan-cont {
+    height: 1.621333rem;
+    background-color: #fff;
+}
+
+.quan-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.quan-item {
+    width: 1.365333rem;
+    height: 100%;
+    text-align: center;
+}
+
+.quan-item img {
+    width: .938667rem;
+    height: .938667rem;
+    margin-bottom: .085333rem;
+}
+
+.quan-item p {
+    font-size: .170667rem;
+
+}
+
+.daka {
+    height: .597333rem;
+    line-height: .597333rem;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    font-size: .290133rem;
+    font-weight: 600;
+    background-color: #fff;
+}
+
+.daka-content {
+    height: 1.109333rem;
+    background-color: #fff;
+}
+
+.daka-item img {
+    width: .597333rem;
+    height: .597333rem;
+    vertical-align: middle;
+    float: left;
+    margin-top: .085333rem;
+}
+
+.daka-item .info {
+    float: left;
+    vertical-align: middle;
+    margin-left: .170667rem;
+    font-size: .170667rem;
+}
+
+.daka-item .info h4 {
+    margin-top: .085333rem;
+    margin-bottom: .085333rem;
+}
+
+.font {
+    line-height: .341333rem;
+}
+
+.main {
+    height: 5.973333rem;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    flex-wrap: wrap;
+    margin-top: .170667rem;
+}
+
+.main-item {
+    width: 32%;
+    height: 32%;
+}
+
+.main-item img {
+    width: 100%;
+    height: 100%;
+}

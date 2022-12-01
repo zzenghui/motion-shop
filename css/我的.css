@@ -1,0 +1,124 @@
+ .head-my {
+     padding-top: .256rem;
+     margin-bottom: .341333rem;
+ }
+
+ .head-my .sao {
+     float: left;
+ }
+
+ .head-my .ling {
+     float: right;
+ }
+
+ .head-my .ling img:nth-child(1) {
+     margin-right: .170667rem;
+ }
+
+ .person-info {
+     height: 2.082133rem;
+     border-top: 1px solid #ccc;
+     border-bottom: 1px solid #ccc;
+     padding-top: .426667rem;
+ }
+
+ .person-info img {
+     float: left;
+     width: 1.109333rem;
+     height: 1.109333rem;
+ }
+
+ .person-info .info {
+     float: left;
+     width: 2.218667rem;
+     margin-left: .256rem;
+ }
+
+ .person-info .info h2 {
+     margin-top: .085333rem;
+     font-size: .290133rem;
+     margin-bottom: .170667rem;
+ }
+
+ .person-info .info span {
+     font-size: .170667rem;
+ }
+
+ .person-info .right-arrow {
+     line-height: 1.024rem;
+     float: right;
+     font-size: .512rem;
+     color: #ccc;
+ }
+
+ .buy {
+
+     height: 1.024rem;
+
+     border-bottom: 1px solid #ccc;
+ }
+
+ .flex {
+     height: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+ }
+
+ .flex div {
+     font-size: .256rem;
+ }
+
+ .flex div img {
+
+     width: .341333rem;
+     height: .341333rem;
+     vertical-align: middle;
+     margin-top: -0.0512rem;
+ }
+
+ .sc {
+     height: 1.024rem;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+ }
+
+ .sc .left {
+     font-size: .256rem;
+ }
+
+ .sc .left img {
+     vertical-align: middle;
+     margin-right: .085333rem;
+     width: .341333rem;
+     height: .341333rem;
+ }
+
+ .right img {
+     width: .512rem;
+     height: .426667rem;
+     vertical-align: middle;
+ }
+
+ .list {
+     margin-top: .170667rem;
+ }
+
+ .list ul li {
+     height: 40px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     font-size: .256rem;
+     border-bottom: 1px solid #ccc;
+
+ }
+
+ .list ul li img {
+     vertical-align: middle;
+     width: .341333rem;
+     height: .341333rem;
+     margin-top: -0.0512rem;
+     margin-right: .085333rem;
+ }
